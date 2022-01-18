@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-762dd": {
+      "hosting": {
+        "gameOfTheYear": [
+          "firestore-grafica-762dd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-762dd"
+  }
+}
